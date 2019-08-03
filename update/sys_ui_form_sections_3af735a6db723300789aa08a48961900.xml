@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="3af735a6db723300789aa08a48961900" sys_domain="global" table="x_332883_practice_childcheck" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-25 10:49:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3af735a6db723300789aa08a489619b4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_332883_practice_childcheck" name="x_332883_practice_childcheck" sys_domain="global" view="ca12844ddb9e3300789aa08a48961998">3af735a6db723300789aa08a48961900</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_332883_practice_childcheck" sys_domain="global" view="ca12844ddb9e3300789aa08a48961998">f6f735a6db723300789aa08a48961905</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-25 10:49:00</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-25 10:49:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7ef735a6db723300789aa08a48961904</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_332883_practice_childcheck" name="x_332883_practice_childcheck" sys_domain="global" view="ca12844ddb9e3300789aa08a48961998">3af735a6db723300789aa08a48961900</sys_ui_form>
+            <sys_ui_section caption="Educational Details" display_value="Educational Details" name="x_332883_practice_childcheck" sys_domain="global" view="ca12844ddb9e3300789aa08a48961998">72f735a6db723300789aa08a48961903</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-25 10:49:00</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_332883_practice_childcheck</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-25 10:48:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3af735a6db723300789aa08a48961900</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_332883_practice_childcheck</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Practice" source="x_332883_practice">f97887a0dbd23300789aa08a489619a5</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Practice">f97887a0dbd23300789aa08a489619a5</sys_scope>
+            <sys_update_name>sys_ui_form_sections_3af735a6db723300789aa08a48961900</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-25 10:48:59</sys_updated_on>
+            <sys_user/>
+            <view display_value="View1" name="View1">ca12844ddb9e3300789aa08a48961998</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

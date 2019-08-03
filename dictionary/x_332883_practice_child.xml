@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="live_feed=true" extends="x_332883_practice_table1" label="Child" max_length="40" name="x_332883_practice_child" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Address" max_length="40" name="address" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Mobile" max_length="40" name="mobile" type="string"/>
+    </element>
+</database>

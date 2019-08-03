@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="hasLabels=true,live_feed=true" label="Parent" max_length="40" name="x_332883_practice_table1" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Date" mandatory="true" max_length="40" name="date" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" choice_field="degree" choice_table="x_332883_practice_child" label="Degree" max_length="40" name="degree" type="string">
+            <choice>
+                <element inactive_on_update="false" label="BTech" sequence="0" value="btech"/>
+                <element inactive_on_update="false" label="MTech" sequence="1" value="mtech"/>
+                <element inactive_on_update="false" label="MSc" sequence="2" value="msc"/>
+            </choice>
+        </element>
+        <element label="Do You Watch Cricket" max_length="40" name="do_you_watch_cricket" type="boolean"/>
+        <element label="Due date" max_length="40" name="due_date" type="due_date"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element default="javascript:current.getTableName();" dynamic_default_value="b5cb83a85f220100a9ad2572f2b4773c" label="Class" max_length="80" name="sys_class_name" type="sys_class_name" use_dynamic_default="true"/>
+        <element attributes="edge_encryption_enabled=true" display="true" label="Name" max_length="40" name="u_string_1" type="string"/>
+        <element choice="1" label="Year" max_length="40" name="year" type="integer">
+            <choice>
+                <element inactive_on_update="false" label="1" sequence="0" value="1"/>
+                <element inactive_on_update="false" label="2" sequence="1" value="2"/>
+                <element inactive_on_update="false" label="3" sequence="2" value="3"/>
+                <element inactive_on_update="false" label="4" sequence="3" value="4"/>
+            </choice>
+        </element>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

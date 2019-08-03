@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="live_feed=true" extends="task" label="ChildTask" max_length="40" name="x_332883_practice_childask" sizeclass="2" type="collection">
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Guess" mandatory="true" max_length="40" name="guess" type="string">
+            <choice>
+                <element inactive_on_update="false" label="True" sequence="0" value="true"/>
+                <element inactive_on_update="false" label="False" sequence="1"/>
+            </choice>
+        </element>
+    </element>
+</database>

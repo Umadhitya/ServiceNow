@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_string_1" label="Name of the student" language="en" table="x_332883_practice_child">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_string_1</element>
+            <help/>
+            <hint/>
+            <label>Name of the student</label>
+            <language>en</language>
+            <name>x_332883_practice_child</name>
+            <plural>Name of the students</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-08-03 17:29:07</sys_created_on>
+            <sys_id>00e9a9e9db033300789aa08a489619c6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Name of the student</sys_name>
+            <sys_package display_value="Practice" source="x_332883_practice">f97887a0dbd23300789aa08a489619a5</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Practice">f97887a0dbd23300789aa08a489619a5</sys_scope>
+            <sys_update_name>sys_documentation_x_332883_practice_child_u_string_1_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-08-03 17:29:07</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

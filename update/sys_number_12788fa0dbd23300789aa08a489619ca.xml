@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_332883_practice_table1">x_332883_practice_table1</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>PrntCnt</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-24 15:01:25</sys_created_on>
+        <sys_id>12788fa0dbd23300789aa08a489619ca</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>PrntCnt</sys_name>
+        <sys_package display_value="Practice" source="x_332883_practice">f97887a0dbd23300789aa08a489619a5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Practice">f97887a0dbd23300789aa08a489619a5</sys_scope>
+        <sys_update_name>sys_number_12788fa0dbd23300789aa08a489619ca</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-25 13:32:52</sys_updated_on>
+    </sys_number>
+</record_update>

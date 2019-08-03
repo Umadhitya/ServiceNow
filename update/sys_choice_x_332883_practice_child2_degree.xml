@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="degree" table="x_332883_practice_child2" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>degree</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>BTech</label>
+            <language>en</language>
+            <name>x_332883_practice_child2</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-25 17:13:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>605030c9db127300789aa08a489619ba</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-25 17:13:37</sys_updated_on>
+            <value>btech</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>degree</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>MTech</label>
+            <language>en</language>
+            <name>x_332883_practice_child2</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-25 17:13:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>345030c9db127300789aa08a489619bb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-25 17:13:37</sys_updated_on>
+            <value>mtech</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>degree</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>MSc</label>
+            <language>en</language>
+            <name>x_332883_practice_child2</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-25 17:13:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>345030c9db127300789aa08a489619bc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-25 17:13:37</sys_updated_on>
+            <value>msc</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>degree</element>
+            <name>x_332883_practice_child2</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-25 17:13:37</sys_created_on>
+            <sys_id>b85030c9db127300789aa08a489619ba</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>degree</sys_name>
+            <sys_package display_value="Practice" source="x_332883_practice">f97887a0dbd23300789aa08a489619a5</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Practice">f97887a0dbd23300789aa08a489619a5</sys_scope>
+            <sys_update_name>sys_choice_x_332883_practice_child2_degree</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-25 17:13:37</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_string_3" table="x_332883_practice_child2" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_string_3</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>CSE</label>
+            <language>en</language>
+            <name>x_332883_practice_child2</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-25 17:13:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2c5030c9db127300789aa08a489619b0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-25 17:13:37</sys_updated_on>
+            <value>cse</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_string_3</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ECE</label>
+            <language>en</language>
+            <name>x_332883_practice_child2</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-25 17:13:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ec5030c9db127300789aa08a489619b1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-25 17:13:37</sys_updated_on>
+            <value>ece</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_string_3</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Mech</label>
+            <language>en</language>
+            <name>x_332883_practice_child2</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-25 17:13:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ec5030c9db127300789aa08a489619b2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-25 17:13:37</sys_updated_on>
+            <value>mech</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_string_3</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ECSE</label>
+            <language>en</language>
+            <name>x_332883_practice_child2</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-25 17:13:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ec5030c9db127300789aa08a489619b3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-25 17:13:37</sys_updated_on>
+            <value>ecse</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_string_3</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>CIVIL</label>
+            <language>en</language>
+            <name>x_332883_practice_child2</name>
+            <sequence>4</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-25 17:13:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ec5030c9db127300789aa08a489619b4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-25 17:13:37</sys_updated_on>
+            <value>civil</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_string_3</element>
+            <name>x_332883_practice_child2</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-25 17:13:37</sys_created_on>
+            <sys_id>645030c9db127300789aa08a489619b1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_string_3</sys_name>
+            <sys_package display_value="Practice" source="x_332883_practice">f97887a0dbd23300789aa08a489619a5</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Practice">f97887a0dbd23300789aa08a489619a5</sys_scope>
+            <sys_update_name>sys_choice_x_332883_practice_child2_u_string_3</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-25 17:13:37</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

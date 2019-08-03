@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="live_feed=true" extends="x_332883_practice_table1" label="ChildCheck" max_length="40" name="x_332883_practice_childcheck" type="collection">
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Guess" max_length="40" name="guess" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Yes" sequence="0" value="yes"/>
+                <element inactive_on_update="false" label="No" sequence="1" value="no"/>
+            </choice>
+        </element>
+    </element>
+</database>

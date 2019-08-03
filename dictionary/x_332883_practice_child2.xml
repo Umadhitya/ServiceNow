@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="hasLabels=true,live_feed=true" extends="x_332883_practice_table1" label="Child2" max_length="40" name="x_332883_practice_child2" type="collection">
+        <element label="Fav Number" max_length="40" name="fav_number" type="integer"/>
+    </element>
+</database>
